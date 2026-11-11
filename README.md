@@ -1,4 +1,4 @@
-# Hi there, I'm Arman Mostazir! 👋
+# Hi there, I'm Arman Hossain Mostazir! 👋
 
 An NSDA-certified Cybersecurity and IT Infrastructure Professional with hands-on corporate project experience and a deep focus on network security defense, penetration testing, and security operations. 
 
